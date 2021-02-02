@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/advice-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/advice-app/static/js/main.7d72ba54.chunk.js",
+    "main.js.map": "/advice-app/static/js/main.7d72ba54.chunk.js.map",
+    "runtime-main.js": "/advice-app/static/js/runtime-main.e3ac021c.js",
+    "runtime-main.js.map": "/advice-app/static/js/runtime-main.e3ac021c.js.map",
+    "static/js/2.956eb5c4.chunk.js": "/advice-app/static/js/2.956eb5c4.chunk.js",
+    "static/js/2.956eb5c4.chunk.js.map": "/advice-app/static/js/2.956eb5c4.chunk.js.map",
+    "static/js/3.9f2ba414.chunk.js": "/advice-app/static/js/3.9f2ba414.chunk.js",
+    "static/js/3.9f2ba414.chunk.js.map": "/advice-app/static/js/3.9f2ba414.chunk.js.map",
+    "index.html": "/advice-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/advice-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.956eb5c4.chunk.js.LICENSE.txt": "/advice-app/static/js/2.956eb5c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3ac021c.js",
+    "static/js/2.956eb5c4.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7d72ba54.chunk.js"
+  ]
+}
