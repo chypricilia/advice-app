@@ -28,3 +28,10 @@
     padding: 2%;
     box-shadow: 10px 10px;
 }
+
+.header {
+    display: flex;
+    align-items: center;
+    height: 580px;
+    font-family: 'Spartan', sans-serif;
+}
