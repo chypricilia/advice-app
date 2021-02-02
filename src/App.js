@@ -37,6 +37,9 @@ class App extends React.Component {
             <div className="app">
                 <div className="card">
                     <h1 className="header"> {advice}</h1>
+                    <button className ="button">
+                        <span>GIVE ME ADVICE!</span>
+                    </button>
                 </div>
             </div>
             
